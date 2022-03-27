@@ -1,7 +1,7 @@
 # Hey, I'm Chris ▲
 <!-- @i506dk told me i needed to fix this, so I did -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neon+Led+Light+&duration=3000&color=EF31E3&vCenter=true&lines=If+it's+not+broken%2C+I+can+probably+fix+that)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neon+Led+Light+&duration=4000&color=EF31E3&vCenter=true&lines=If+it's+not+broken%2C;I+can+probably+fix+that)](https://git.io/typing-svg)
 
 <!-- Header -->
 <div align="center">
