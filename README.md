@@ -16,10 +16,10 @@
 
 
 ## Amazing Security Resources 
-### Blue Team 
+### Blue Team 💙
 - <a href="https://github.com/skeeto/endlessh">Endlessh</a>: an SSH tarpit
 
-### Red Team
+### Red Team 🔺
 More to come here because @i506dk was making fun of my default readme >:( 
 
 
