@@ -1,5 +1,4 @@
 # Hey, I'm Chris ▲
-<!-- @i506dk told me i needed to fix this, so I did -->
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neon+Led+Light+&duration=4000&color=EF31E3&vCenter=true&lines=If+it's+not+broken%2C;I+can+probably+fix+that)](https://git.io/typing-svg)
 
@@ -18,10 +17,11 @@
 ## Amazing Security Resources 
 ### Blue Team 💙
 - <a href="https://github.com/skeeto/endlessh">Endlessh</a>: an SSH tarpit
+- More to come here later
+
 
 ### Red Team 🔺
-More to come here because @i506dk was making fun of my default readme >:( 
-
+More to come here later
 
 
 <!-- Footer -->
