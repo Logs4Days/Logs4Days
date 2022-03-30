@@ -14,7 +14,7 @@
 - ⚔️ Volunteering with <a href="https://www.nationalccdc.org/">CCDC</a> 
 
 
-## Amazing Security Resources 
+## Awesome Security Resources 
 ### Blue Team 💙
 - <a href="https://github.com/skeeto/endlessh">Endlessh</a>: an SSH tarpit
 - More to come here later
@@ -22,6 +22,16 @@
 
 ### Red Team 🔺
 More to come here later
+
+### "Awesome" Lists of Resrouces 
+- https://github.com/CyberSecurityUP/Awesome-Red-Team-Operations
+- https://0x1.gitlab.io/pentesting/Red-Teaming-Toolkit/
+- https://github.com/yeyintminthuhtut/Awesome-Red-Teaming
+- [https://awesomerepos.io/awesome/meitar/awesome-cybersecurity-blueteam](https://awesomerepos.io/awesome/meitar/awesome-cybersecurity-blueteam)
+- [awesome-cybersecurity-blueteam](https://gitlab.com/jpsuldo1/awesome-cybersecurity-blueteam)
+- [Awesome Incident Response](https://github.com/meirwah/awesome-incident-response#adversary-emulation)
+
+
 
 
 <!-- Footer -->
