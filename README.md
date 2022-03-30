@@ -19,9 +19,11 @@
 - <a href="https://github.com/skeeto/endlessh">Endlessh</a>: an SSH tarpit
 - More to come here later
 
-
 ### Red Team 🔺
 More to come here later
+
+### Competition Resources ⚔️
+- [Lockdown Hardening Guide](https://lockdown.ubnetdef.org/resources/BeginnerSecurityGuide.pdf)
 
 ### "Awesome" Lists of Resrouces 
 - https://github.com/CyberSecurityUP/Awesome-Red-Team-Operations
