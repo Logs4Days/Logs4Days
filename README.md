@@ -17,6 +17,7 @@
 ## Awesome Security Resources 
 ### Blue Team 💙
 - <a href="https://github.com/skeeto/endlessh">Endlessh</a>: an SSH tarpit
+- ~~Okta~~
 - More to come here later
 
 ### Red Team 🔺
