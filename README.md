@@ -27,12 +27,12 @@ More to come here later
 - [Lockdown Hardening Guide](https://lockdown.ubnetdef.org/resources/BeginnerSecurityGuide.pdf)
 
 ### "Awesome" Lists of Resrouces 
-- https://github.com/CyberSecurityUP/Awesome-Red-Team-Operations
-- https://0x1.gitlab.io/pentesting/Red-Teaming-Toolkit/
-- https://github.com/yeyintminthuhtut/Awesome-Red-Teaming
-- [https://awesomerepos.io/awesome/meitar/awesome-cybersecurity-blueteam](https://awesomerepos.io/awesome/meitar/awesome-cybersecurity-blueteam)
-- [awesome-cybersecurity-blueteam](https://gitlab.com/jpsuldo1/awesome-cybersecurity-blueteam)
-- [Awesome Incident Response](https://github.com/meirwah/awesome-incident-response#adversary-emulation)
+- [🔺 Awesome-Red-Team-Operations](https://github.com/CyberSecurityUP/Awesome-Red-Team-Operations)
+- [🔺 Red Teaming/Adversary Simulation Toolkit](https://0x1.gitlab.io/pentesting/Red-Teaming-Toolkit/)
+- [🔺 Awesome Red Teaming - Outdated 💔](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming)
+- [💙 Awesome Cybersecurity Blue Team - meitar](https://awesomerepos.io/awesome/meitar/awesome-cybersecurity-blueteam)
+- [💙 awesome-cybersecurity-blueteam - jpsuldo1](https://gitlab.com/jpsuldo1/awesome-cybersecurity-blueteam)
+- [💙 Awesome Incident Response](https://github.com/meirwah/awesome-incident-response#adversary-emulation)
 
 
 
