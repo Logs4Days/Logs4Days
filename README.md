@@ -21,8 +21,8 @@
 - More to come here later
 
 ### Red Team 🔺
-- <a href="[https://gtfobins.github.io/](https://gtfobins.github.io/)">GTFO Bins</a>: living off the land - Linux
-- <a href="[https://lolbas-project.github.io/](https://lolbas-project.github.io/)">LOLBAS</a>: living off the land - Windows
+- <a href="https://gtfobins.github.io/">GTFO Bins</a>: living off the land - Linux
+- <a href="https://lolbas-project.github.io/">LOLBAS</a>: living off the land - Windows
 
 ### Competition Resources ⚔️
 - [Lockdown Hardening Guide](https://lockdown.ubnetdef.org/resources/BeginnerSecurityGuide.pdf)
