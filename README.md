@@ -46,8 +46,6 @@
  ...and as long as I know that, I'm as rich as I ever need to be.<br />
 <!-- <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" /> -->
 <br />
-
-![Visitor Count](https://profile-counter.glitch.me/Logs4Days/count.svg)
   
 <img src="https://i.imgur.com/Dznctgm.gif" alt="Site created with Notepad" height="30" />
 <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
