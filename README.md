@@ -1,4 +1,4 @@
-# Hey, I'm Chris ▲
+# Hey, I'm Chris
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neon+Led+Light+&duration=4000&color=EF31E3&vCenter=true&lines=If+it's+not+broken%2C;I+can+probably+fix+that)](https://git.io/typing-svg)
 
