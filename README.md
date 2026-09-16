@@ -8,7 +8,7 @@
 </div>
 
 ## About me...
-- 🔨 Currently working on the Security team @<a href="https://github.com/vercel">Vercel</a> ▲
+- 🔨 Currently working on some Security stuff 
 - 💻 Bash > Powershell 
 - 🎓 Learning Golang, Terraform, Next.Js, and the entire red team world
 - ⚔️ Volunteering with <a href="https://www.nationalccdc.org/">CCDC</a> 
